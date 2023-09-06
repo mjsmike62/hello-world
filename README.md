@@ -1,7 +1,7 @@
 # hello-world
 This is a learning exercise
 This is my **first** edit to this *readme*. 
-My name is Mike
+My name is Mike. I am a **technical writer** at *Consensys*
 ~Oops, this was a mistake.~
 This is fun 😂
 # This is an H1 heading
